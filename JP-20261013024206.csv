@@ -1,9 +1,8 @@
-﻿网络延迟,数据中心,地区,城市,IP地址
-82ms,NRT,Asia Pacific,Tokyo,108.162.198.204
-82ms,NRT,Asia Pacific,Tokyo,162.159.44.254
-82ms,NRT,Asia Pacific,Tokyo,172.64.53.163
-81ms,NRT,Asia Pacific,Tokyo,172.64.229.161
-82ms,NRT,Asia Pacific,Tokyo,162.159.39.36
-83ms,NRT,Asia Pacific,Tokyo,162.159.38.94
-84ms,NRT,Asia Pacific,Tokyo,162.159.45.254
-85ms,NRT,Asia Pacific,Tokyo,172.64.52.122
+﻿108.162.198.204:443#JP#Tokyo
+162.159.44.254:443#JP#Tokyo
+172.64.53.163:443#JP#Tokyo
+172.64.229.161:443#JP#Tokyo
+162.159.39.36:443#JP#Tokyo
+162.159.38.94:443#JP#Tokyo
+162.159.45.254:443#JP#Tokyo
+172.64.52.122:443#JP#Tokyo
