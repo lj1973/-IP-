@@ -1,101 +1,55 @@
-﻿IP地址,端口号,网络延迟,数据中心,落地区域,地区,城市
-104.18.108.75,443,181ms,SJC,US,North America,San Jose
-104.19.219.240,443,182ms,SJC,US,North America,San Jose
-104.19.176.100,443,181ms,SJC,US,North America,San Jose
-104.18.251.253,443,183ms,SJC,US,North America,San Jose
-104.17.57.239,443,181ms,SJC,US,North America,San Jose
-104.19.78.115,443,180ms,SJC,US,North America,San Jose
-104.17.8.105,443,179ms,SJC,US,North America,San Jose
-104.17.19.196,443,181ms,SJC,US,North America,San Jose
-104.16.192.64,443,180ms,SJC,US,North America,San Jose
-104.17.220.234,443,180ms,SJC,US,North America,San Jose
-104.17.115.167,443,179ms,SJC,US,North America,San Jose
-104.18.147.207,443,182ms,SJC,US,North America,San Jose
-104.19.68.173,443,182ms,SJC,US,North America,San Jose
-104.17.69.26,443,182ms,SJC,US,North America,San Jose
-104.18.57.114,443,182ms,SJC,US,North America,San Jose
-104.19.183.173,443,182ms,SJC,US,North America,San Jose
-104.16.106.60,443,183ms,SJC,US,North America,San Jose
-104.19.82.141,443,183ms,SJC,US,North America,San Jose
-104.16.17.86,443,181ms,SJC,US,North America,San Jose
-104.16.183.44,443,182ms,SJC,US,North America,San Jose
-104.17.150.168,443,182ms,SJC,US,North America,San Jose
-104.18.241.29,443,183ms,SJC,US,North America,San Jose
-104.16.65.99,443,184ms,SJC,US,North America,San Jose
-104.17.195.181,443,182ms,SJC,US,North America,San Jose
-104.18.186.121,443,182ms,SJC,US,North America,San Jose
-104.19.237.157,443,185ms,SJC,US,North America,San Jose
-104.17.235.128,443,186ms,SJC,US,North America,San Jose
-104.16.36.170,443,180ms,SJC,US,North America,San Jose
-104.16.18.42,443,181ms,SJC,US,North America,San Jose
-104.19.46.30,443,181ms,SJC,US,North America,San Jose
-104.19.103.104,443,185ms,SJC,US,North America,San Jose
-104.17.110.102,443,183ms,SJC,US,North America,San Jose
-104.19.229.237,443,184ms,SJC,US,North America,San Jose
-104.16.160.75,443,183ms,SJC,US,North America,San Jose
-104.17.159.21,443,184ms,SJC,US,North America,San Jose
-104.19.224.30,443,184ms,SJC,US,North America,San Jose
-104.17.179.71,443,185ms,SJC,US,North America,San Jose
-104.19.26.43,443,182ms,SJC,US,North America,San Jose
-198.41.214.177,443,183ms,SJC,US,North America,San Jose
-104.19.101.174,443,186ms,SJC,US,North America,San Jose
-172.64.94.108,443,186ms,SJC,US,North America,San Jose
-104.18.192.198,443,187ms,SJC,US,North America,San Jose
-104.17.133.63,443,185ms,SJC,US,North America,San Jose
-104.16.169.175,443,181ms,SJC,US,North America,San Jose
-104.19.234.92,443,180ms,SJC,US,North America,San Jose
-104.17.43.90,443,181ms,SJC,US,North America,San Jose
-104.18.244.167,443,180ms,SJC,US,North America,San Jose
-104.17.34.20,443,181ms,SJC,US,North America,San Jose
-104.18.71.137,443,181ms,SJC,US,North America,San Jose
-104.19.48.153,443,181ms,SJC,US,North America,San Jose
-104.16.130.66,443,181ms,SJC,US,North America,San Jose
-104.16.157.122,443,181ms,SJC,US,North America,San Jose
-104.17.174.173,443,181ms,SJC,US,North America,San Jose
-104.18.162.6,443,183ms,SJC,US,North America,San Jose
-162.251.82.48,443,183ms,SJC,US,North America,San Jose
-104.18.242.64,443,181ms,SJC,US,North America,San Jose
-104.17.172.118,443,182ms,SJC,US,North America,San Jose
-104.19.107.88,443,182ms,SJC,US,North America,San Jose
-104.18.106.116,443,183ms,SJC,US,North America,San Jose
-104.18.208.227,443,183ms,SJC,US,North America,San Jose
-104.19.63.240,443,184ms,SJC,US,North America,San Jose
-104.17.205.42,443,180ms,SJC,US,North America,San Jose
-104.16.236.141,443,182ms,SJC,US,North America,San Jose
-104.19.216.255,443,182ms,SJC,US,North America,San Jose
-104.16.52.97,443,183ms,SJC,US,North America,San Jose
-104.19.184.191,443,184ms,SJC,US,North America,San Jose
-104.16.92.138,443,181ms,SJC,US,North America,San Jose
-104.18.110.53,443,181ms,SJC,US,North America,San Jose
-198.41.199.90,443,182ms,SJC,US,North America,San Jose
-104.18.158.237,443,183ms,SJC,US,North America,San Jose
-104.16.103.221,443,184ms,SJC,US,North America,San Jose
-104.16.224.136,443,184ms,SJC,US,North America,San Jose
-104.16.51.57,443,184ms,SJC,US,North America,San Jose
-104.17.109.123,443,184ms,SJC,US,North America,San Jose
-104.16.70.207,443,181ms,SJC,US,North America,San Jose
-104.16.153.228,443,183ms,SJC,US,North America,San Jose
-104.17.222.64,443,185ms,SJC,US,North America,San Jose
-172.66.45.55,443,181ms,SJC,US,North America,San Jose
-104.17.201.242,443,182ms,SJC,US,North America,San Jose
-104.17.245.24,443,182ms,SJC,US,North America,San Jose
-104.16.255.127,443,183ms,SJC,US,North America,San Jose
-104.17.118.221,443,183ms,SJC,US,North America,San Jose
-104.17.70.0,443,183ms,SJC,US,North America,San Jose
-104.18.144.48,443,183ms,SJC,US,North America,San Jose
-104.19.225.90,443,183ms,SJC,US,North America,San Jose
-172.64.91.199,443,183ms,SJC,US,North America,San Jose
-104.17.147.82,443,184ms,SJC,US,North America,San Jose
-104.19.94.48,443,184ms,SJC,US,North America,San Jose
-104.17.112.93,443,186ms,SJC,US,North America,San Jose
-104.17.128.166,443,183ms,SJC,US,North America,San Jose
-104.17.177.88,443,183ms,SJC,US,North America,San Jose
-104.18.95.102,443,183ms,SJC,US,North America,San Jose
-104.19.212.172,443,181ms,SJC,US,North America,San Jose
-104.16.56.91,443,183ms,SJC,US,North America,San Jose
-104.17.168.66,443,183ms,SJC,US,North America,San Jose
-104.17.62.22,443,183ms,SJC,US,North America,San Jose
-104.19.120.169,443,183ms,SJC,US,North America,San Jose
-104.16.245.252,443,184ms,SJC,US,North America,San Jose
-104.18.128.223,443,184ms,SJC,US,North America,San Jose
-104.19.182.243,443,184ms,SJC,US,North America,San Jose
+﻿104.18.108.75:443#US
+104.19.219.240:443#US
+104.19.176.100:443#US
+104.18.251.253:443#US
+104.17.57.239:443#US
+104.19.78.115:443#US
+104.17.8.105:443#US
+104.17.19.196:443#US
+104.16.192.64:443#US
+104.17.220.234:443#US
+104.17.115.167:443#US
+104.18.147.207:443#US
+104.19.68.173:443#US
+104.17.69.26:443#US
+104.18.57.114:443#US
+104.19.183.173:443#US
+104.16.106.60:443#US
+104.19.82.141:443#US
+104.16.17.86:443#US
+104.16.183.44:443#US
+104.17.150.168:443#US
+104.18.241.29:443#US
+104.16.65.99:443#US
+104.17.195.181:443#US
+104.18.186.121:443#US
+104.19.237.157:443#US
+104.17.235.128:443#US
+104.16.36.170:443#US
+104.16.18.42:443#US
+104.19.46.30:443#US
+104.19.103.104:443#US
+104.17.110.102:443#US
+104.19.229.237:443#US
+104.16.160.75:443#US
+104.17.159.21:443#US
+104.19.224.30:443#US
+104.17.179.71:443#US
+104.19.26.43:443#US
+198.41.214.177:443#US
+104.19.101.174:443#US
+172.64.94.108:443#US
+104.18.192.198:443#US
+104.17.133.63:443#US
+104.16.169.175:443#US
+104.19.234.92:443#US
+104.17.43.90:443#US
+104.18.244.167:443#US
+104.17.34.20:443#US
+104.18.71.137:443#US
+104.19.48.153:443#US
+104.16.130.66:443#US
+104.16.157.122:443#US
+104.17.174.173:443#US
+104.18.162.6:443#US
+162.251.82.48:443#US
